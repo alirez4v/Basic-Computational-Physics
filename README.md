@@ -5,5 +5,5 @@ Topics are including but not limited to:
 * Solving Ordinary Differential Equations (ODEs);
 * Percolation;
 * Monte Carlo Simulations;
-* etc,.
+* etc,. <br>
 I will try update this repository and include more projects in it. ;)
