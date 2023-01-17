@@ -6,4 +6,4 @@ Topics are including but not limited to: <br>
 * Percolation;
 * Monte Carlo Simulations;
 * etc,.<br><br>
-I will try update this repository and include more projects in it. ;)
+I will try to update this repository and include more projects in it. ;)
