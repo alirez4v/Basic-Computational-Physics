@@ -6,4 +6,6 @@ Topics are including but not limited to: <br>
 * Percolation;
 * Monte Carlo Simulations;
 * etc,.<br><br>
-I will try to update this repository and include more projects in it. ;)
+I will try to update this repository and include more projects in it. ;) <br>
+<br>
+You can follow various references for Computational Physics. For example, you can refer to [this book](https://www.wiley.com/en-us/Computational+Physics:+Problem+Solving+with+Python,+3rd+Edition-p-9783527413157) .
